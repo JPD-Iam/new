@@ -1,5 +1,5 @@
 /* This is a set of functions used to test C++ exceptions are not
- * broken during greenlet switches
+ * broken during greenlet switches and swithes
  */
 
 #include "../greenlet.h"
